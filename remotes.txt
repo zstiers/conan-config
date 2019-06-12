@@ -1,4 +1,4 @@
+zstiers https://api.bintray.com/conan/zstiers/public-conan True
 bincrafters http://api.bintray.com/conan/bincrafters/public-conan True
 conan-center https://conan.bintray.com True
 conan-community https://api.bintray.com/conan/conan-community/conan True
-zstiers https://api.bintray.com/conan/zstiers/public-conan True
