@@ -2,3 +2,4 @@ zstiers https://api.bintray.com/conan/zstiers/public-conan True
 conan-center https://conan.bintray.com True
 bincrafters http://api.bintray.com/conan/bincrafters/public-conan True
 conan-community https://api.bintray.com/conan/conan-community/conan True
+cliutils https://api.bintray.com/conan/cliutils/CLI11 True
