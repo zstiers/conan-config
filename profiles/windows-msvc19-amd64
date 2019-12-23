@@ -2,6 +2,6 @@
 arch=x86_64
 arch_build=x86_64
 compiler=Visual Studio
-compiler.version=16
+compiler.version=19
 os=Windows
 os_build=Windows
